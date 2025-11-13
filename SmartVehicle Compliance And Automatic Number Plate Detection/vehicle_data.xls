@@ -1,0 +1,6 @@
+plate_number,confidence_score,registration_valid,insurance_valid,pollution_valid
+TN22AB1234,95,True,True,True
+MH12FAKE1234,90,True,True,True
+DL8CAF9999,92,True,False,True
+KA05XY4321,88,True,True,False
+UP32ZZ9999,93,True,True,True

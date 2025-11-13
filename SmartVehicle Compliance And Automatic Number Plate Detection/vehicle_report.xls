@@ -1,0 +1,6 @@
+plate_number,plate_format_valid,confidence_score,registration_valid,insurance_valid,pollution_valid,status,final_flag
+TN22AB1234,True,95.0,True,True,True,COMPLIANT,Green Flag
+MH12FAKE1234,False,90.0,True,True,True,FAKE PLATE,Reportable
+DL8CAF9999,False,92.0,True,False,True,FAKE PLATE,Reportable
+KA05XY4321,True,88.0,True,True,False,NON-COMPLIANT,Reportable
+UP32ZZ9999,True,93.0,True,True,True,COMPLIANT,Green Flag
